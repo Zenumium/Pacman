@@ -21,7 +21,7 @@ A classic implementation of the famous Pac-Man game where you navigate Pac-Man t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/___/pacman.git
+    https://github.com/Zenumium/Pacman.git
 
 
 ## Contributing
